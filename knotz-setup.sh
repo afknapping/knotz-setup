@@ -11,4 +11,4 @@ source .bash_profile
 ### REMOVE
 
 # rm .bash_profile
-# rm -rf knotz-config/
+# rm -rf knotz-setup/

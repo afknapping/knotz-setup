@@ -2,5 +2,5 @@
 
 # link bashprofile
 cd ~
-ln -s knotz-config/.bash_profile ~/.bash_profile
+ln -s knotz-setup/.bash_profile ./.bash_profile
 
